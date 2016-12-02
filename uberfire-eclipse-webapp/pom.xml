@@ -27,7 +27,7 @@
   <properties>
     <!-- Add the absolute path for $JBOSS_HOME below to manage another instance -->
     <errai.jboss.home>${project.build.directory}/wildfly-${version.org.wildfly.gwt.sdm}</errai.jboss.home>
-    <!--  <version.org.hibernate.hibernate-validator>4.1.0.Final</version.org.hibernate.hibernate-validator>  -->
+    <version.org.hibernate.validator>4.1.0.Final</version.org.hibernate.validator>
   </properties>
 
   <dependencies>
